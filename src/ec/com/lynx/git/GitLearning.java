@@ -6,6 +6,7 @@ public class GitLearning {
 		// TODO Auto-generated method stub
 		System.out.println("This is just a test 1");
 		System.out.println("This is just a test 2");
+		System.out.println("This is another test 3");
 	}
 
 }
